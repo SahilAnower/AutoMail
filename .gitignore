@@ -1,0 +1,7 @@
+node_modules
+
+appFlow.txt
+info.txt
+credentials.json
+
+.env

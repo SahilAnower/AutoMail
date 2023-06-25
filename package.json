@@ -1,0 +1,19 @@
+{
+  "name": "gmailapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "SahilAnower",
+  "license": "ISC/MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "mimetext": "^3.0.15"
+  }
+}
